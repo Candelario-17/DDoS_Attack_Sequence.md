@@ -1,3 +1,4 @@
+Mermaid
 sequenceDiagram
     box Red 
     Actor Attacker
