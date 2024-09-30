@@ -12,4 +12,5 @@ sequenceDiagram;
     Note over Firewall: Blocking Incoming Traffic
     Firewall->Web Server: Defense Mechanism
 
-First, a malicious attacker will infect multiple devices with malware to gain control creating a botnet to target a server within a network flooding the network with many requests and causing the server to be overwhelmed. Based on the policies of the firewall the firewall can protect from unauthorized access, access control, malware, and phishing.  Firewalls scan incoming traffic, denying packets that have been flagged, and can determine which applications/ services have access to the internet. 
+First, a malicious attacker will infect multiple devices with malware to gain control creating a botnet to target a server within a network flooding the network with many requests and causing the server to be overwhelmed. 
+Based on the policies of the firewall the firewall can protect from unauthorized access, access control, malware, and phishing.  Firewalls scan incoming traffic, denying packets that have been flagged, and can determine which applications/ services have access to the internet. 
